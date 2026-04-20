@@ -1,0 +1,41 @@
+
+EffectLogoYO88.png
+size: 804,802
+format: RGBA8888
+filter: MipMapNearestLinear,MipMapNearestLinear
+repeat: none
+1
+  rotate: false
+  xy: 2, 42
+  size: 487, 309
+  orig: 487, 309
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 491, 313
+  size: 487, 309
+  orig: 487, 309
+  offset: 0, 0
+  index: -1
+Blur
+  rotate: false
+  xy: 491, 177
+  size: 178, 134
+  orig: 178, 134
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 671, 191
+  size: 131, 120
+  orig: 131, 120
+  offset: 0, 0
+  index: -1
+efWin
+  rotate: false
+  xy: 2, 353
+  size: 462, 447
+  orig: 462, 447
+  offset: 0, 0
+  index: -1
